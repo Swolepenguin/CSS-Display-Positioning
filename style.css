@@ -1,3 +1,22 @@
 .container{
     border: 2px solid green;
 }
+
+.one{
+    display: block;
+    border: 1px dashed purple;
+}
+
+.two{
+    display: inline;
+    border: 1px solid red;
+}
+
+.three{
+    display: inline-block;
+    border: 1px dashed orange;
+}
+
+.four{
+    display: hidden;
+}
